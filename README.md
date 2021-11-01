@@ -1,6 +1,6 @@
 
 
-<h2> Hi, I'm Engin! <img src="34688-google-icons-android.gif" width="100"></h2>
+<h2> Hi, I'm Engin! <img src="34688-google-icons-android.gif" height="100" width="100"></h2>
 <img align='right' src="68377-coder-boy.gif" width="230">
 <p><em>Software Enginner at <a href="https://www.sakarya.edu.tr">Sakarya University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
