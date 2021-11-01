@@ -5,8 +5,8 @@
 <p><em>Software Enginner at <a href="https://www.sakarya.edu.tr">Sakarya University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
-[![Linkedin: engiinemre](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/engiinemre/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/enginemre)
+[![Linkedin: engiinemre](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engiinemre/)](https://www.linkedin.com/in/engiinemre/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/engiinemre?label=follow&style=social)](https://github.com/enginemre)
 
 
 ### A little more about me...  
