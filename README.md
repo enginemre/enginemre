@@ -1,7 +1,6 @@
 
 
-<h2> Hi, I'm Engin! <img src="https://raw.githubusercontent.com/user/engiinemre/main/34688-google-icons-android.gif
-" width="50"></h2>
+<h2> Hi, I'm Engin! <img src="34688-google-icons-android.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Software Enginner at <a href="https://www.sakarya.edu.tr">Sakarya University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
@@ -27,7 +26,7 @@ const thai = {
 - 👯 I’m looking to collaborate on Some mobile project 
 - 📖 I'm speaking English and Spanish(Beginner)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="68377-coder-boy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
 
