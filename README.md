@@ -6,7 +6,7 @@
 </em></p>
 
 [![Linkedin: engiinemre](https://img.shields.io/badge/-engiinemre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engiinemre/)](https://www.linkedin.com/in/engiinemre/)
-[![GitHub enginemre](https://img.shields.io	/github/followers/:enginemre?label=Follow)](https://github.com/enginemre)
+[![GitHub enginemre](https://img.shields.io/github/followers/enginemre?label=follow&style=social)](https://github.com/enginemre)
 
 ### A little more about me...  
 
