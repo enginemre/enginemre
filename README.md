@@ -1,12 +1,12 @@
 
 
-<h2> Hi, I'm Engin! <img src="34688-google-icons-android.gif" height="100" width="100"></h2>
+<h2> Hi, I'm Engin!</h2>
 <img align='right' src="68377-coder-boy.gif" width="230">
 <p><em>Software Enginner at <a href="https://www.sakarya.edu.tr">Sakarya University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
 [![Linkedin: engiinemre](https://img.shields.io/badge/-engiinemre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engiinemre/)](https://www.linkedin.com/in/engiinemre/)
-[![GitHub enginemre](https://img.shields.io/github/followers/engiinemre?label=follow&style=social)](https://github.com/enginemre)
+[![GitHub enginemre](https://img.shields.io	/github/followers/:enginemre?label=Follow)](https://github.com/enginemre)
 
 ### A little more about me...  
 
