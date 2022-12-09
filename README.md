@@ -20,6 +20,14 @@ const turkish = {
 }
 ```
 
+<p align="center">
+<a href="https://github.com/enginemre">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=enginemre&show_icons=true&theme=cobalt" alt="enginemre"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enginemre&layout=compact&hide=Python,c%2B%2B,makefile&langs_count=10&theme=cobalt" alt="enginemre"/>
+</a>
+</p>
+
+
 - 🔭 I’m currently working on Android and Flutter
 - 🌱 I’m currently learning iOS
 - 👯 I’m looking to collaborate on Some mobile project 
