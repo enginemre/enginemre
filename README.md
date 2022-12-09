@@ -21,7 +21,7 @@ const turkish = {
 ```
 
 - 🔭 I’m currently working on Android and Flutter
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning iOS
 - 👯 I’m looking to collaborate on Some mobile project 
 - 📖 I'm speaking English and Spanish(Beginner)
 
