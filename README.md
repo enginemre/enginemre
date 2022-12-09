@@ -11,7 +11,7 @@
 ### A little more about me...  
 
 ```kotlin
-const thai = {
+const turkish = {
   pronouns: "he" | "him",
   code: [Kotlin, Java, Dart, C#, Python],
   tools: [Flutter, Rest, SOAP, Adobe XD, Figma],
