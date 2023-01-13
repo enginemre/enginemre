@@ -20,12 +20,8 @@ const turkish = {
 }
 ```
 
-<p align="center">
-<a href="https://github.com/enginemre">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=enginemre&show_icons=true&theme=cobalt" alt="enginemre"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enginemre&layout=compact&hide=Python,c%2B%2B,makefile&langs_count=10&theme=cobalt" alt="enginemre"/>
-</a>
-</p>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+
 
 
 - 🔭 I’m currently working on Android and Flutter
