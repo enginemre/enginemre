@@ -20,13 +20,6 @@ const turkish = {
 }
 ```
 
-
-
-- 🔭 I’m currently working on Android and Flutter
-- 🌱 I’m currently learning iOS
-- 👯 I’m looking to collaborate on Some mobile project 
-- 📖 I'm speaking English and Spanish(Beginner)
-
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
    ![enginemre's Streak](https://github-readme-streak-stats.herokuapp.com/?user=enginemre&theme=vue-dark&hide_border=true)
