@@ -12,13 +12,20 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Gmail: **engiinemre@gmail.com**<br>
 &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 <br>
+
+--- 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,flutter,kotlin,graphql,gradle,sqlite,py,firebase&theme=dark" />
+  <a href="https://www.linkedin.com/in/engiinemre/">
+    <img src="https://skillicons.dev/icons?i=androidstudio,flutter,kotlin,graphql,gradle,sqlite,py,firebase,linkedin&theme=dark" />
   </a>
 </p>
 
-   ![enginemre's Streak](https://github-readme-streak-stats.herokuapp.com/?user=enginemre&theme=vue-dark&hide_border=true)
+--- 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=enginemre&show_icons=true&theme=bear" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=enginemre&theme=dark&hide_border=true" width="400>
+</p>
 
 ---
 
